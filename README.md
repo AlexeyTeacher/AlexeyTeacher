@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey Kirilov
 - 👀 I’m interested in backend, bots, PyQT
-- 🌱 I’m currently learning django, ORM
+- 🌱 I’m currently learning django, DRF, ORM
 - 📫 How to reach me  *[@AlexeyTeacher](https://t.me/AlexeyTeacher)* in telegram or instagram
 
 <!---
