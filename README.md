@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexey Kirilov
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning async
-- 👨‍💼 I work in [tochka](https://tochka.com/) as python developer
+- 👨‍💼 I work as python developer
 - 📫 How to reach me  *[@AlexeyTeacher](https://t.me/AlexeyTeacher)* in telegram
 
 <!---
